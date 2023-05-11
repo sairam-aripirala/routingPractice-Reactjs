@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.home {
+  height: 350px;
+  width: 350px;
+}
+.about-heading {
+  font-size: 50px;
+  font-weight: 500;
+  color: #6d396b;
+}
